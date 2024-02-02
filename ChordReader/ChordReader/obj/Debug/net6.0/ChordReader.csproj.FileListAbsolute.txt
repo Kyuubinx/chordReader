@@ -1,0 +1,15 @@
+C:\repositorios\ChordReader\ChordReader\bin\Debug\net6.0\ChordReader.exe
+C:\repositorios\ChordReader\ChordReader\bin\Debug\net6.0\ChordReader.deps.json
+C:\repositorios\ChordReader\ChordReader\bin\Debug\net6.0\ChordReader.runtimeconfig.json
+C:\repositorios\ChordReader\ChordReader\bin\Debug\net6.0\ChordReader.dll
+C:\repositorios\ChordReader\ChordReader\bin\Debug\net6.0\ChordReader.pdb
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.csproj.AssemblyReference.cache
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.AssemblyInfoInputs.cache
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.AssemblyInfo.cs
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.csproj.CoreCompileInputs.cache
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.dll
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\refint\ChordReader.dll
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.pdb
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ChordReader.genruntimeconfig.cache
+C:\repositorios\ChordReader\ChordReader\obj\Debug\net6.0\ref\ChordReader.dll
